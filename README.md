@@ -1,4 +1,4 @@
-Power Bi dashboards overview, you can check the complete projects in the file.. 
+Power Bi dashboards overview, you can check the complete projects in the files.. 
 
 
 Hospital ER Project 
@@ -8,4 +8,4 @@ Hospital ER Project
 
 Data Professionals Survey Breakdown Project 
 
-![Screenshot 2024-05-27 175406](https://github.com/mariiamayy/PowerBi/assets/157510408/71739408-0710-4f4c-a749-f998d8eef657)
+![Screenshot 2024-05-27 175406](https://github.com/mariiamayy/PowerBi/assets/157510408/e9ac31fc-dd8c-4a87-89e5-183da664be26)
